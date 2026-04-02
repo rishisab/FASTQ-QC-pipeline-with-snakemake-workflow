@@ -1,0 +1,4 @@
+Total reads: 3
+Total base count : 36
+Average length : 12.0
+GC percent: 30.56
